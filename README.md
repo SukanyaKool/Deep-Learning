@@ -1,10 +1,14 @@
 # Deep Learning
 
-Journal used for the implemetation
-Journal title: A hybrid explainable ensemble transformer encoder for pneumonia identification
-from chest X-ray images
-Authors: Chiagoziem C. Ukwuoma, Zhiguang Qin, Md Belal Bin Heyat, Faijan Akhtar, Olusola
-Bamisile, Abdullah Y. Muaad, Daniel Addo, Mugahed A. Al-antari
-Year: 2023
+This repository contains a collection of implementations focused on Deep Neural Networks and Deep Reinforcement Learning.
+All the files in this repo demonstrate different concepts, models, and experiments related to modern deep learning techniques, including but not limited to:
 
-A deep learning project built with TensorFlow and Keras to implement neural network–based models.
+Neural network architectures built using TensorFlow and Keras
+
+Supervised and unsupervised deep learning models
+
+Reinforcement learning algorithms powered by deep neural networks
+
+Experimental code for training, evaluation, and optimization of models
+
+This repository is intended for learning, experimentation, and showcasing practical applications of deep learning and deep reinforcement learning methods.
